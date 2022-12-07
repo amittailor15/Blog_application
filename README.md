@@ -4,7 +4,7 @@ This is Java Web Application Based Project . <br />
 In this project, user do post and share information to others.
 
 Tech used :-
-Core Java, J2EE <br />
+Core Java, J2EE (JDBC, Servlets, JSP) <br />
 HTML, CSS, JavaScript, Bootstrap, JQuery, AJAX, MySQL (database)
 
 ##home page 
