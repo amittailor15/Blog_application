@@ -1,9 +1,9 @@
 # Blog Application
 
-This is Java Web Application Based Project . <br />
+Java Web Application Based Project . <br />
 In this project, user do post and share information to others.
 
-Tech used :-
+Tech used :- <br />
 Core Java, J2EE (JDBC, Servlets, JSP) <br />
 HTML, CSS, JavaScript, Bootstrap, JQuery, AJAX, MySQL (database)
 
@@ -14,3 +14,4 @@ HTML, CSS, JavaScript, Bootstrap, JQuery, AJAX, MySQL (database)
 ##After User Login can see all other posts and other details (like,comment,share)
 
 ![allpost](https://user-images.githubusercontent.com/63902621/82150066-792fe900-9875-11ea-9486-368474236851.jpg)
+
