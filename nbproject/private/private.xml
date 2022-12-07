@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/com/techBlog/dao/PostDao.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>148</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/web/index.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/web/showPost.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/web/loadpostonHomepage.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/entities/Category.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/dao/CommentDao.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/dao/UserDao.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/servlets/AddPostServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/helper/Helper.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/dao/PostDao.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/web/ErrorPage.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/dao/LikeDao.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/servlets/LikeServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/servlets/CommentServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/entities/User.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/web/profile.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/web/navbar.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/web/loadpost.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/servlets/UserServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/entities/Message.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/entities/Comment.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/helper/ConnectionProvider.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/entities/Post.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/src/java/com/techBlog/servlets/EditProfileServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/web/login.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/techblog-master5/techblog-master/web/register.jsp</file>
+        </group>
+    </open-files>
+</project-private>
